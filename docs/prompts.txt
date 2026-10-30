@@ -1,0 +1,41 @@
+CSE489 Assignment 1 – AI Prompts Project: VangtiChai Repository folder:
+/docs
+
+
+
+1.  Help me plan the development of my Android application, VangtiChai,
+    using Kotlin and XML in Android Studio.
+
+2.  Explain how to create an Android user interface using
+    ConstraintLayout, step by step.
+
+3.  Help me design a clean layout for VangtiChai with an amount display,
+    a numeric keypad, and a change breakdown panel.
+
+4.  Write simple Kotlin code to handle numeric keypad button clicks and
+    display the entered amount.
+
+5.  Help me calculate the number of Bangladeshi taka notes and coins
+    needed for an amount using denominations 500, 100, 50, 20, 10, 5, 2,
+    and 1.
+
+6.  Explain the Kotlin code line by line in beginner-friendly language.
+
+7.  Help me save and restore the entered amount when the Android device
+    is rotated.
+
+8.  Help me make the portrait and landscape layouts work on different
+    Android screen sizes.
+
+9.  Help me organize dimension values such as spacing, text sizes, and
+    button heights in a separate Android resource file.
+
+10. Help me troubleshoot the Android layout when the keypad button
+    numbers are not clearly visible.
+
+11. Review my Android XML layout and suggest fixes while keeping the
+    existing view IDs and Kotlin code compatible.
+
+12. Explain how to build and test the Android application in Android
+    Studio.
+
